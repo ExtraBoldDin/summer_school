@@ -1,0 +1,3 @@
+/Users/din/Desktop/ss_dev/recognition_project/CMakeFiles/rebuild_cache.dir
+/Users/din/Desktop/ss_dev/recognition_project/CMakeFiles/edit_cache.dir
+/Users/din/Desktop/ss_dev/recognition_project/CMakeFiles/recognition_app.dir
